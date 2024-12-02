@@ -1,0 +1,4 @@
+-  I’m @therealzakie
+-  I’m interested in Python, HTML, Lua and CSS
+-  I’m currently learning Python and Lua
+-  My pronouns are: He/Him
