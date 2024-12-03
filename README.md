@@ -2,3 +2,4 @@
 -  I’m interested in Python, HTML, Lua and CSS
 -  I’m currently learning Python and Lua
 -  My pronouns are: He/Him
+-  If you're looking for Zeme Technologies, go to https://github.com/ZemeTechnologies
